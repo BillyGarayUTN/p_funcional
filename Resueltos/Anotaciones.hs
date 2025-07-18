@@ -40,3 +40,6 @@ precioFinal camiseta color = precioBase camiseta + (recargoPorColor color)
 
 
 peru = Camiseta{ talle="s" , precioBase = 100}
+
+
+ -- estoy agregando  un  cambio
