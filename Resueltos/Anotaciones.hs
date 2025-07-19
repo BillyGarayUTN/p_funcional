@@ -44,4 +44,7 @@ peru = Camiseta{ talle="s" , precioBase = 100}
 
  -- estoy agregando  un  cambio
 
- -- agregando tercer cambio 
+ -- agregando tercer cambi
+
+ -- PARA REVISAR CAMBIO DESDE LA NOTEBBOK
+ 
