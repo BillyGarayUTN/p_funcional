@@ -50,3 +50,10 @@ peru = Camiseta{ talle="s" , precioBase = 100}
  
 
  -- 4ta revision 
+
+{--
+para fold
+foldr	foldr ($) persona tareas	    "derecha a izquierda"
+foldl	foldl (flip ($)) persona tareas	   "izquierda a derecha"
+
+--}
