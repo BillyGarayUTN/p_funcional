@@ -1,11 +1,3 @@
-module Library where
-import PdePreludat
-
-{-
-doble :: Number -> Number
-doble numero = numero + numero
--}
-
 --   Parcial de potter --  Resuelto
 type Hechizo = Mago -> Mago
 
@@ -110,4 +102,3 @@ noPuedeGanarle mago otroMago = mismaSalud mago $ foldr ($) mago (hechizos otroMa
 
 mismaSalud :: Mago -> Mago -> Bool
 mismaSalud mago otroMago = salud mago == salud otroMago
-
