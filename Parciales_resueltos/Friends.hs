@@ -98,3 +98,4 @@ viejoSonLosTrapos puede devolver resultado con listas infinitas
 solo si encuentra un joven no vital rápidamente, 
 gracias a la pereza de Haskell. Si no, tampoco termina.
 --}
+

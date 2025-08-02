@@ -1,7 +1,3 @@
-{-# OPTIONS_GHC -Wno-missing-fields #-}
-module Library where
-import PdePreludat
-
 -- Punto 1 --
 -- Modelado del Auto
 data Auto = Auto {

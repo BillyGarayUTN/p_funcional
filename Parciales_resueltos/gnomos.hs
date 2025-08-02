@@ -93,3 +93,5 @@ recolectarYLustrarMaderas aldea = realizarLasQueCumplan tareas condicionValiosos
         maximum . map calidad . filter esMadera $ materialesDisponibles aldea
     esMadera material = take 6 (nombre material) == "Madera"
     
+
+    
